@@ -5,4 +5,4 @@ Python für Datenjournalist:innen: Kleine Übungen für die Option "Datenjournal
 ## Die Lektionen
 
 * [Übung 01: Das erste Colab-Notebook zum Laufen bringen](ddj_python_kurs_uebung01.ipynb)
-* [Übung 02: Bibliotheken einbauen](dj_python_kurs_uebung02.ipynb)
+* [Übung 02: Bibliotheken einbauen](ddj_python_kurs_uebung02.ipynb)
