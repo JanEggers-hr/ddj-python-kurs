@@ -37,7 +37,7 @@ aus grauer Vorzeit - ein schwarzes Fenster mit grüner oder weißer Schrift, in 
 ```python --version```
 
 Wenn Python schon installiert ist, bekommen wir als Antwort die Versionsnummer der installierten Python-Umgebung.
-![Mac-Terminal[./shell.png]
+![Mac-Terminal][./shell.png]
 
 Wenn der Computer sich beschwert, dass er den Befehl "python" nicht finden kann, oder die Python-Version recht alt ist (3.7 oder früher): 
 
