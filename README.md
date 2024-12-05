@@ -11,6 +11,7 @@ Ziel ist nicht, dass man am Ende dieser Übungen programmieren kann. Ziel ist: e
 * [Hallo Welt: Wir bringen ein Colab zum Laufen](00_gude_welt.ipynb)
 * [Übung 01: Das erste Colab-Notebook zum Laufen bringen](01_erste_schritte.ipynb)
 * [Übung 02: Bibliotheken einbauen](02_python_erweitern.ipynb)
+* [Übung 03: Eine App mit ipywidgets](03_interaktive_widgets.ipynb)
 
 ## Die Software
 
